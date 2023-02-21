@@ -109,5 +109,3 @@ strawberry4.addEventListener('click',() => {
         return order(1000, () => sotildi.classList.add('activsotildi'))
     })
 })
-
-
